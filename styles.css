@@ -1,0 +1,21 @@
+h1, h2{
+  background-color: white;
+  text-align: center;
+  font-size: larger;
+  font-style: italic;
+  text-decoration: wavy;
+  font-weight: bolder;
+  color: magenta;
+}
+
+button {
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 10px;
+  width: 150px;
+}
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
